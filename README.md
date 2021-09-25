@@ -9,3 +9,9 @@
 -  🥅 2021 Goals: Want to become a world class Web Developer
 -  ⚡ Fun fact: I love to draw and play guitar / Cycle / Coding / Travelling / learn new New things
 
+<h3>Project Details</h3>
+<ul>
+	<li>Human</li>
+	<li>Resources</li>
+	<li>Club</li>
+</ul>
