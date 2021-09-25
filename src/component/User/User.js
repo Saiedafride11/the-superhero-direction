@@ -14,9 +14,14 @@ const User = () => {
     }, [])
 
     const handleUserAdded = (user) => {
-        // console.log('User added', user);
-        const newCart = [...cart, user];
-        setCart(newCart)
+        const existId = cart.find(addedId => addedId.id === user.id);
+        if (existId) {
+            alert("This person already added!!");
+        }
+        else {
+            const newCart = [...cart, user];
+            setCart(newCart)
+        }
     }
     return (
         <div className="user-container">
