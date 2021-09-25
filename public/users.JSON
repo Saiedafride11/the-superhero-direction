@@ -1,0 +1,137 @@
+[
+    {
+        "id": "01",
+        "name": "Miss Freja Møller",
+        "gender": "Female",
+        "email": "Freja@Example.Com",
+        "phone": "59058306",
+        "salary": 2294,
+        "img": "https://randomuser.me/api/portraits/women/67.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Mr Iker Martin",
+        "gender": "Male",
+        "email": "Iker.Martin@Example.Com",
+        "phone": "921-227-651",
+        "salary": 2014,
+        "img": "https://randomuser.me/api/portraits/men/51.jpg"
+    },
+    {
+        "id": "03",
+        "name": "Mrs Yasemin Kurutluoğlu",
+        "gender": "Female",
+        "email": "Yasemin@Example.Com",
+        "phone": "(262)-055-9960",
+        "salary": 2164,
+        "img": "https://randomuser.me/api/portraits/women/75.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Miss Andressa Cavalcanti",
+        "gender": "Female",
+        "email": "Andressa.@Example.Com",
+        "phone": "(69) 2739-6611",
+        "salary": 2294,
+        "img": "https://randomuser.me/api/portraits/women/67.jpg"
+    },
+    {
+        "id": "05",
+        "name": "Mrs Sonja Lima",
+        "gender": "Female",
+        "email": "Sonja.Lima@Example.Com",
+        "phone": " (04) 6799-5896",
+        "salary": 1984,
+        "img": "https://randomuser.me/api/portraits/women/37.jpg"
+    },
+    {
+        "id": "06",
+        "name": "Mr Harrison Hall",
+        "gender": "Male",
+        "email": "Harrison@Example.Com",
+        "phone": "(564)-656-7214",
+        "salary": 2224,
+        "img": "https://randomuser.me/api/portraits/men/19.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Mr Fábio De With",
+        "gender": "Male",
+        "email": "Fabio@Example.Com",
+        "phone": "(351)-139-7719",
+        "salary": 2164,
+        "img": "https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+        "id": "08",
+        "name": "Mr Matteus Naustdal",
+        "gender": "Male",
+        "email": "Matteus@Example.Com",
+        "phone": "71327450",
+        "salary": 1658 ,
+        "img": "https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    {
+        "id": "09",
+        "name": "Ms Juliette Walker",
+        "gender": "Female",
+        "email": "Juliette@Example.Com",
+        "phone": "762-209-3281",
+        "salary": 1258,
+        "img": "https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Miss Delores Lewis",
+        "gender": "Female",
+        "email": "Delores@Example.Com",
+        "phone": "08-2431-3783",
+        "salary": 1658,
+        "img": "https://randomuser.me/api/portraits/women/64.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Mr Howard Cruz",
+        "gender": "Male",
+        "email": "Howard@Example.Com",
+        "phone": "03-5036-9271",
+        "salary": 1788,
+        "img": "https://randomuser.me/api/portraits/men/62.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Mr Myrmhmd",
+        "gender": "Male",
+        "email": "Myrmhmd@Example.Com",
+        "phone": "054-68470379",
+        "salary": 1878,
+        "img": "https://randomuser.me/api/portraits/men/83.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Mr Deniz Karaer",
+        "gender": "Male",
+        "email": "Deniz@Example.Com",
+        "phone": "(817)-307-9583",
+        "salary": 3070,
+        "img": "https://randomuser.me/api/portraits/men/97.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Miss Julia Lavoie",
+        "gender": "Female",
+        "email": "Julia.Lavoie@Example.Com",
+        "phone": "671-015-1624",
+        "salary": 2780,
+        "img": "https://randomuser.me/api/portraits/women/43.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Mrs Emilie Knight",
+        "gender": "Female",
+        "email": "Emilie@Example.Com",
+        "phone": "072-109-7792",
+        "salary": 1570,
+        "img": "https://randomuser.me/api/portraits/women/31.jpg"
+    }
+]

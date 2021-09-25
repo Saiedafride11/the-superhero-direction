@@ -1,0 +1,21 @@
+.cart{
+    padding-top: 10px;
+    position: fixed;
+    z-index: 1;
+}
+.cart-info{
+    display: flex;
+    align-items: center;
+    padding:10px 2px;
+    background-color: #3578E5;
+    color: #fff;
+    margin-bottom: 10px;
+    border-radius:3px;
+}
+.cart-img{
+    width: 15%;
+    margin: 0px 5px;
+}
+.cart-info p{
+    margin: 0px;
+}

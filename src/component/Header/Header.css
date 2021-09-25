@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+a{
+    text-decoration: none;
+}
+.header-container{
+    background-color:#3578E5;
+    text-align: center;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 1;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding:20px 100px;
+}
+.logo, .logo:hover{
+    color:#fff;
+}
+.nav a{
+    color: #fff;
+    margin-left: 30px;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+}
+.nav a:hover{
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.header-human-club{
+    background-color:#2e5fad;
+    color:#fff;
+    padding: 20px;
+}
