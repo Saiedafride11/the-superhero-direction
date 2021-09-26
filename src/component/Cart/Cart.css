@@ -1,7 +1,11 @@
 .cart{
     padding-top: 5px;
+}
+.cart-length{
     position: fixed;
     z-index: 1;
+    background-color: #fff;
+    width: 100%;
 }
 .cart-info{
     display: flex;
@@ -17,5 +21,6 @@
     margin: 0px 5px;
 }
 .cart-info p{
+    font-size:15px;
     margin: 0px;
 }

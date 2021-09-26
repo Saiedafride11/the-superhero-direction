@@ -78,7 +78,7 @@
         "email": "Juliette@Example.Com",
         "phone": "762-209-3281",
         "salary": 1258,
-        "img": "https://randomuser.me/api/portraits/women/34.jpg"
+        "img": "https://randomuser.me/api/portraits/women/63.jpg"
     },
     {
         "id": "10",
@@ -109,21 +109,21 @@
     },
     {
         "id": "13",
-        "name": "Mr Deniz Karaer",
-        "gender": "Male",
-        "email": "Deniz@Example.Com",
-        "phone": "(817)-307-9583",
-        "salary": 3070,
-        "img": "https://randomuser.me/api/portraits/men/97.jpg"
-    },
-    {
-        "id": "14",
         "name": "Miss Julia Lavoie",
         "gender": "Female",
         "email": "Julia.Lavoie@Example.Com",
         "phone": "671-015-1624",
         "salary": 2780,
         "img": "https://randomuser.me/api/portraits/women/43.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Mr Deniz Karaer",
+        "gender": "Male",
+        "email": "Deniz@Example.Com",
+        "phone": "(817)-307-9583",
+        "salary": 3070,
+        "img": "https://randomuser.me/api/portraits/men/97.jpg"
     },
     {
         "id": "15",
