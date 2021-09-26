@@ -1,21 +1,21 @@
-.user-img{
+.developer-img{
     width: 50%;
     margin: 0 auto;
     text-align: center;
 }
-.user-img img{
+.developer-img img{
     width: 80%;
     border-radius: 50%;
 }
-.user-btn{
+.developer-btn{
    width: 100%;
    padding: 5px 0px;
    border: none;
    background-color: #3578E5;
    color: #fff;
    border-radius:3px;
+   margin-bottom:15px;
 }
-.user-btn:hover{
+.developer-btn:hover{
    background-color: #2e5fad;
 }
-

@@ -14,25 +14,31 @@ a{
     right:0;
     z-index: 1;
 }
-.navbar {
+.header-container .navbar {
     display: flex;
     justify-content: space-between;
     padding:20px 100px;
 }
+/*  ---------- header logo ---------- */
+.header-container .navbar img{
+    height: 30px
+}
 .logo, .logo:hover{
     color:#fff;
 }
-.nav a{
+/*  ---------- header menu ---------- */
+.header-container .navbar .nav a{
     color: #fff;
     margin-left: 30px;
     border-top: 1px solid transparent;
     border-bottom: 1px solid transparent;
 }
-.nav a:hover{
+.header-container .navbar .nav a:hover{
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
 }
-.header-human-club{
+/*  ---------- header salary ---------- */
+.header-container .header-Salary{
     background-color:#2e5fad;
     color:#fff;
     padding: 20px;

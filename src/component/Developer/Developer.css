@@ -1,0 +1,9 @@
+.developer-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-top: 200px;
+}
+.developer-container .developer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,12 +1,12 @@
 import './App.css';
 import Header from './component/Header/Header';
-import User from './component/User/User';
+import Developer from './component/Developer/Developer';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <User></User>
+      <Developer></Developer>
     </div>
   );
 }

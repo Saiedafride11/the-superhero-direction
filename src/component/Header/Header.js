@@ -1,20 +1,20 @@
 import React from 'react';
 import './Header.css';
+import logo from '../../images/logo.png';
 
 const Header = () => {
     return (
         <div className="header-container">
             <div className="navbar" >
-                <a className="logo" href="/home">Logo</a>
+                <a className="logo" href="/home"> <img src={logo} alt="" /> SoftCoder</a>
                 <div className="nav">
                     <a href="/home">Home</a>
-                    <a href="/user">User</a>
+                    <a href="/employes">Employes</a>
                     <a href="/about">About</a>
                 </div>
             </div>
-            <div className="header-human-club">
-                <h2>The Human Resources Club</h2>
-                <p>Times can get tough and talking to someone who’s willing to listen can help . We are willing to listen.</p>
+            <div className="header-Salary">
+                <h2>Developers Projects Base Monthly Salary</h2>
                 <h4>Total Budget: 50000 Usd</h4>
             </div>
         </div>
