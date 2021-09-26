@@ -6,8 +6,8 @@
 
 <h3>Project Details</h3>
 <ul>
-	<li>Some web developer works this company</li>
-	<li>Projects base monthly salary</li>
-	<li>Click developer pay salary button and total added salary</li>
-	<li>One single developer, two times no added her salary</li>
+	<li>Some web developer works in this company</li>
+	<li>Projects bases monthly salary</li>
+	<li>Click developer pay salary button and show total added salary</li>
+	<li>once you pay one developer you can't pay again</li>
 </ul>

@@ -1,5 +1,5 @@
 .developer-summary .card{
-    background-color: #3578E5;
+    background-color: #49a6e9;
     color: #fff;
 }
 .developer-summary .card:hover{
@@ -20,11 +20,11 @@
    padding: 5px 0px;
    border: none;
    background-color: #fff;
-   color: #3578E5;
+   color: #49a6e9;
    border-radius:3px;
    margin-bottom:15px;
 }
 .developer-btn:hover{
-   background-color: #2e5fad;
+   background-color: #2d87c8;
    color: #fff;
 }

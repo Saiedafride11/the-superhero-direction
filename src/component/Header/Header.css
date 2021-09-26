@@ -6,7 +6,7 @@ a{
     text-decoration: none;
 }
 .header-container{
-    background-color:#3578E5;
+    background-color:#49a6e9;
     text-align: center;
     position: fixed;
     top:0;
@@ -39,7 +39,7 @@ a{
 }
 /*  ---------- header salary ---------- */
 .header-container .header-Salary{
-    background-color:#2e5fad;
+    background-color:#2d87c8;
     color:#fff;
     padding: 20px;
 }
