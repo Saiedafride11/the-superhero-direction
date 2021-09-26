@@ -19,7 +19,7 @@
     },
     {
         "id": "03",
-        "name": "Mrs Yasemin Kurutluoğlu",
+        "name": "Miss Yasemin Kuru",
         "gender": "Female",
         "email": "Yasemin@Example.Com",
         "phone": "(262)-055-9960",
@@ -28,12 +28,12 @@
     },
     {
         "id": "04",
-        "name": "Miss Andressa Cavalcanti",
+        "name": "Miss Andressa Cava",
         "gender": "Female",
-        "email": "Andressa.@Example.Com",
+        "email": "Andre@Example.Com",
         "phone": "(69) 2739-6611",
         "salary": 2294,
-        "img": "https://randomuser.me/api/portraits/women/67.jpg"
+        "img": "https://randomuser.me/api/portraits/women/68.jpg"
     },
     {
         "id": "05",
@@ -127,7 +127,7 @@
     },
     {
         "id": "15",
-        "name": "Mrs Emilie Knight",
+        "name": "Miss Emilie Knight",
         "gender": "Female",
         "email": "Emilie@Example.Com",
         "phone": "072-109-7792",
