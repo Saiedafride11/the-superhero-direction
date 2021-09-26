@@ -18,7 +18,7 @@ const DeveloperSummary = (props) => {
                             <p>Gender : {gender}</p>
                             <p>Email : {email}</p>
                             <p>Phone no : {phone}</p>
-                            <p>Salary : {salary} Usd </p>
+                            <p>Salary : ${salary}</p>
                             <button className="developer-btn" onClick={() => props.handleDeveloperAdded(props.developer)}><FontAwesomeIcon icon={faHandHoldingUsd} /> Pay Salary</button>
                         </div>
                     </div>

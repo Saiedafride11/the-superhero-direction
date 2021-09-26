@@ -10,7 +10,7 @@ const Cart = (props) => {
         <div className="cart">
             <div className="cart-length">
                 <h5 style={{color: '#49a6e9'}}><span><FontAwesomeIcon icon={faUser} /></span> Developer Added: {cart.length}</h5>  
-                <h5>Total Pay Salary: {totalSalary}</h5> 
+                <h5>Total Pay Salary: ${totalSalary}</h5> 
             </div>
             <div >
                 { 

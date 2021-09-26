@@ -15,7 +15,7 @@ const Header = () => {
             </div>
             <div className="header-Salary">
                 <h2>Developers Monthly Salary</h2>
-                <h4>Total Budget: 50000 Usd</h4>
+                <h4>Total Budget: $50000</h4>
             </div>
         </div>
     );
