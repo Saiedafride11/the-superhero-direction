@@ -1,6 +1,6 @@
 <h1><strong>SoftCoder</strong></h1>
 
-<a target="_blank" href="https://the-superhero-direction.netlify.app/"">
+<a target="_blank" href="https://the-superhero-direction.netlify.app/">
     <p>SoftCoder Live Link</p>
 </a>
 
